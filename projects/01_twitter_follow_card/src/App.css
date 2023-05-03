@@ -53,3 +53,7 @@
   border-color: #840000;
   color: #ff0000;
 }
+
+.tw-follow-stopFollow {
+  display: none;
+}
